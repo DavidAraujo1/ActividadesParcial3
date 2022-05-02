@@ -9,5 +9,8 @@ class Mensajes {
   final String hora;
   final String tags;
 
-  Mensajes(this.id, this.iduDe, this.idPara, this.titulo, this.mensaje, this.idGrupo, this.fecha, this.hora, this.tags);
+  Mensajes(this.id, this.iduDe, this.idPara, this.titulo, this.mensaje,
+      this.idGrupo, this.fecha, this.hora, this.tags);
 }
+
+List<Mensajes> mensajesDatos = [];

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418663392079",
+    "project_id": "proyectou3-c8123",
+    "storage_bucket": "proyectou3-c8123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418663392079:android:0d71426101a8bfb4725b3a",
+        "android_client_info": {
+          "package_name": "com.example.ultimabd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418663392079-vauabji8nvbjhps2hkic5msskjadm0oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXIfLGulqbNfFvoQmfn_mfHZiHhdZ3lsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418663392079-vauabji8nvbjhps2hkic5msskjadm0oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -6,3 +6,5 @@ class Configuracion {
 
   Configuracion(this.id, this.idUsuario, this.nombre, this.valor);
 }
+
+List<Configuracion> configuracionDatos = [];

@@ -11,5 +11,18 @@ class Calendario {
   final String imgIni;
   final String imgFin;
 
-  Calendario(this.id, this.idUsuario, this.nombre, this.fechaIni, this.fechaFin, this.horaIni, this.horaFin, this.detalles, this.tipo, this.imgIni, this.imgFin);
+  Calendario(
+      this.id,
+      this.idUsuario,
+      this.nombre,
+      this.fechaIni,
+      this.fechaFin,
+      this.horaIni,
+      this.horaFin,
+      this.detalles,
+      this.tipo,
+      this.imgIni,
+      this.imgFin);
 }
+
+List<Calendario> calendarioDatos = [];

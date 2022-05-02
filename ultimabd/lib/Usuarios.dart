@@ -8,5 +8,8 @@ class Usuarios {
   final String tipo;
   final String avatar;
 
-  Usuarios(this.id, this.nivel, this.usuario,this.correo, this.password, this.nombre, this.tipo, this.avatar);
+  Usuarios(this.id, this.nivel, this.usuario, this.correo, this.password,
+      this.nombre, this.tipo, this.avatar);
 }
+
+List<Usuarios> usuariosDatos = [];

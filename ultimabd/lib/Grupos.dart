@@ -7,3 +7,5 @@ class Grupos {
 
   Grupos(this.id, this.nombre, this.idUsuario, this.tipo, this.publico);
 }
+
+List<Grupos> gruposDatos = [];
